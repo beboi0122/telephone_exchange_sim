@@ -1,0 +1,3 @@
+C:/Users/pancz/CLionProjects/telefonkozpont/cmake-build-debug/CMakeFiles/telefonkozpont.dir
+C:/Users/pancz/CLionProjects/telefonkozpont/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pancz/CLionProjects/telefonkozpont/cmake-build-debug/CMakeFiles/rebuild_cache.dir

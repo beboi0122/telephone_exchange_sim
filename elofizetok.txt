@@ -1,0 +1,72 @@
+#1
+Kiss Janos;1965;05;30;Tatabanya;
+Nagy Levente;1996;07;28;Kiskunhalas;
+Kisfoldi Ibolya;1942;05;04;Budapest;
+Robotka Roland;1992;11;06;Eger;
+Panczel Bence;2000;01;22;Esztergom;
+Feher Barna;1998;06;21;Pecs;
+Bakos Judit;1987;04;02;Kecskemet;
+Orban Panna;1965;03;01;Szolnok;
+#2
+Novak Tamara;2001;03;12;Debrecen;
+Szabo Patrik;1987;01;01;Budapest;
+Miksa Kinga;2003;12;31;Gyor;
+Vincze Bence;1999;03;08;Budapest;
+Kozma Nikoletta;1997;08;21;Budapest;
+#3
+Gaspar Barnabas;1987;07;07;Budapest;
+Papp Noel;1993;02;20;Budapest;
+Silagyi Jozsef;1999;05;30;Debrecen;
+Meszaros Emese;1976;02;07;Budapest;
+Balint Bela;1973;07;30;Bekescsaba;
+Fulop Oliver;1996;04;28;Sopron;
+Nemes Jakab;1989;05;06;Gyor;
+Bodnar Gabriella;1998;06;16;Budapest;
+#4
+Varadi Barna;1991;01;22;Budapest;
+Nemes Kitti;1995;06;17;Budapest;
+Kozma Katalin;1968;05;05;Dorog;
+Balogh Erzsebet;1987;06;12;Budapest;
+Feher Domonkos;1993;10;10;Debrecen;
+Fulop Szilveszter;1987;08;07;Hatvan;
+Fodor Zsanna;1999;06;23;Gyor;
+Vorors Roland;1997;05;21;Budapest;
+Varadi Bence;1989;08;08;Budapest;
+#5
+Tamas Szabina;1998;05;04;Esztergom;
+Dunas Georgina;1987;06;03;Budapest;
+Bacs Erika;1998;05;24;Szeged;
+Lukacs Tamas;1978;11;03;Budapest;
+Nemeth Bence;1956;10;23;Budapest;
+Kapolcs Ferenc;1998;05;06;Pecs;
+Gal Eniko;1965;05;21;Budapest;
+Horvath Marton;1998;04;06;Kecskemet;
+#6
+Virag Domonkos;1999;06;24;Siofok;
+Balint Emese;2000;06;04;Zalaegerszeg;
+Fabian Fulop;1965;11;04;Kiskunhalas;
+Eszterhazi Attila;1996;04;30;Budapest;
+Szekeres Kriszta;1998;07;16;Pecs;
+Aprod Csongor;1999;12;22;Godollo;
+Takacs Zsombor;1966;11;11;Budapest;
+Pal Terezia;1989;09;18;Budapest;
+#7
+Feher Orsolya;1999;11;02;Komarom;
+Farkas Mate;1992;12;04;Veszprem;
+Egyed Regina;1999;05;04;Papa;
+#8
+Lenygel Istvan;2002;05;31;Budapest;
+Lengyel Tamara;1996;05;04;Kecskemet;
+Deak Barnabas;1982;05;12;Kiskunszallas;
+Kocsis Zsuzsanna;1990;03;28;Szolnok;
+Veres Hanna;1976;04;30;Szeged;
+Csonka Bence;1993;06;04;Budapest;
+#9
+Varadi Szabolcs;1989;12;11;Szekszard;
+Orsos Gyorogy;1978;06;25;Balatonfured;
+Molnar Emese;1996;12;21;Budapest;
+Kovacs Janos;1963;03;21;Debrecen;
+Kiss Terezia;1996;04;30;Budapest;
+Kovacs Rajmund;1989;09;26;Budapest;
+Pal Dorina;1999;01;22;Esztergom;
+#
